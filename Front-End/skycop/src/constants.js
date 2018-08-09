@@ -1,0 +1,1 @@
+export const CHANGE_RESPONSE = 'CHANGE_RESPONSE';
